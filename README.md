@@ -1,2 +1,2 @@
-# Machine_Learning
-머신러닝, 딥러닝 저장소
+# Deep_Learning
+딥러닝 저장소
